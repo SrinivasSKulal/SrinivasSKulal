@@ -19,5 +19,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=srinivasskulal&show_icons=true&locale=en&layout=compact" alt="srinivasskulal" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=srinivasskulal&show_icons=true&locale=en" alt="srinivasskulal" /></p>
-
+[![Srinivas's GitHub stats](https://github-readme-stats.vercel.app/api?username=SrinivasSKulal)](https://github.com/anuraghazra/github-readme-stats)
   
