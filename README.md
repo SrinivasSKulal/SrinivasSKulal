@@ -20,3 +20,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=srinivasskulal&show_icons=true&locale=en&theme=midnight-purple" alt="srinivasskulal" /></p>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=srinivasskulal&size_weight=0.5&count_weight=0.5&theme=midnight-purple)
+[![Srinivas S Kulal profile views](https://u8views.com/api/v1/github/profiles/179672272/views/day-week-month-total-count.svg)](https://u8views.com/github/SrinivasSKulal)
